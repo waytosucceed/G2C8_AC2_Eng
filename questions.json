@@ -1,0 +1,336 @@
+[
+    {
+      "questionNo": "Q1.",
+      "question": "What sound does the letter \"B\" make?",
+      "Q_sound":"",
+      "options": [
+        {
+          "text": "🔉",
+          "audio": "./sound/s-sound.mp3"
+        },
+        {
+          "text": "🔉",
+          "audio": "./sound/b-sound.mp3"
+        },
+        {
+          "text": "🔉",
+          "audio": "./sound/t-sound.mp3"
+        },
+        {
+          "text": "🔉",
+          "audio": "./sound/m-sound.mp3"
+        }
+      ],
+      "correct": 1
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "The letter \"S\"  makes a hissing sound.’",
+        "Q_sound":"./sound/s-sound.mp3",
+        "options": [
+          {
+            "text": "True",
+            "audio": ""
+          },
+          {
+            "text": "False",
+            "audio": ""
+          }
+        ],
+        "correct": 0
+      },
+      {
+        "questionNo": "Q3.",
+        "question": "Fill in the blank: The letter \"M\" makes a _____ sound.",
+        "Q_sound":"./sound/m-sound.mp3",
+        "options": [
+          {
+            "text": "🔉Humming",
+            "audio": "humming.mp3"
+          },
+          {
+            "text": "🔉Skipping",
+            "audio": "skipping.mp3"
+          }
+        ],
+        "correct": 0
+      },
+      {
+        "questionNo": "Q4.",
+        "question": "What sound does a snake make? ",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "🔉",
+            "audio": "hmm.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/s-sound.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/t-sound.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/p-sound.mp3"
+          }
+        ],
+        "correct": 1
+      },{
+        "questionNo": "Q5.",
+        "question": "Choose the letter at the start of the word:<img src='./images/mango.jpg' alt='goldFish' width='80px' height='60px'>",
+        "Q_sound":"mango.mp3",
+        "options": [
+          {
+            "text": "🔉M",
+            "audio": "./sound/m-sound.mp3"
+          },
+          {
+            "text": "🔉A",
+            "audio": "./sound/a-sound.mp3"
+          },
+          {
+            "text": "🔉B",
+            "audio": "./sound/b-sound.mp3"
+          }
+        ],
+        "correct": 0
+      },
+      {
+        "questionNo": "Q6.",
+        "question": "Hear the sound and count the letters:",
+        "Q_sound":"big.mp3",
+        "options": [
+          {
+            "text": "2",
+            "audio": ""
+          },
+          {
+            "text": "3",
+            "audio": ""
+          },
+          {
+            "text": "4",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q7.",
+        "question": "Listen to the word. which letter does it end with?<img src='./images/wet.jpg' alt='goldFish' width='80px' height='60px'>",
+        "Q_sound":"wet.mp3",
+        "options": [
+          {
+            "text": "🔉h",
+            "audio": "./sound/h-sound.mp3"
+          },
+          {
+            "text": "🔉t",
+            "audio": "./sound/t-sound.mp3"
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q8.",
+        "question": "What sound does the letter \"P\" make? ",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "🔉",
+            "audio": "./sound/b-sound.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/p-sound.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/d-sound.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/t-sound.mp3"
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q9.",
+        "question": "Guess the first letter of the sound:<img src='./images/zipper.jpg' alt='goldFish' width='80px' height='60px'>",
+        "Q_sound":"./sound/z-sound.mp3",
+        "options": [
+          {
+            "text": "S",
+            "audio": ""
+          },
+          {
+            "text": "X",
+            "audio": ""
+          },
+          {
+            "text": "Z",
+            "audio": ""
+          },
+          {
+            "text": "C",
+            "audio": ""
+          }
+        ],
+        "correct": 2
+      },
+      {
+        "questionNo": "Q10.",
+        "question": "What sound does the letter \"G\" make? ",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "🔉",
+            "audio": "./sound/j-sound.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/g-sound.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/h-sound.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/f-sound.mp3"
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q11.",
+        "question": "Hear the sound of a cow. Which letter did it start from?<img src='./images/cow.jpg' alt='goldFish' width='80px' height='60px'>",
+        "Q_sound":"moo.mp3",
+        "options": [
+          {
+            "text": "M",
+            "audio": ""
+          },
+          {
+            "text": "W",
+            "audio": ""
+          },
+          {
+            "text": "F",
+            "audio": ""
+          }
+        ],
+        "correct": 0
+      },
+      {
+        "questionNo": "Q12.",
+        "question": " The letter \"E\" makes the same sound as the letter \"I\".",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "True",
+            "audio": ""
+          },
+          {
+            "text": "False",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q13.",
+        "question": "What sound does the letter \"J\" make? ",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "🔉",
+            "audio": "./sound/h-sound.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/j-sound.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/g-sound.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/k-sound.mp3"
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q14.",
+        "question": "Hear the sound of a word. Which letter did it start from?<img src='./images/egg.jpg' alt='goldFish' width='80px' height='60px'> ",
+        "Q_sound":"egg.mp3",
+        "options": [
+          {
+            "text": "I",
+            "audio": ""
+          },
+          {
+            "text": "A",
+            "audio": ""
+          },
+          {
+            "text": "E",
+            "audio": ""
+          }
+        ],
+        "correct": 2
+      }
+      ,
+      {
+        "questionNo": "Q15.",
+        "question": " What sound does the letter \"N\" make? ",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "🔉",
+            "audio": "./sound/m-sound.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/n-sound.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/l-sound.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/r-sound.mp3"
+          }
+        ],
+        "correct": 1
+      },
+      
+      {
+        "questionNo": "Q16.",
+        "question": "Listen to the word. What is the first sound in the word?<img src='./images/can.jpg' alt='goldFish' width='80px' height='60px'> ",
+        "Q_sound":"can.mp3",
+        "options": [
+          {
+            "text": "P",
+            "audio": ""
+          },
+          {
+            "text": "C",
+            "audio": ""
+          },
+          {
+            "text": "V",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      }
+  ]
+  

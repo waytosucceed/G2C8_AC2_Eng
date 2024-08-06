@@ -1,0 +1,60 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Gabby likes things that start with <b>g</b>.<br>Fint the thing that starts with <b>g</b> sound.",
+    "optionsImages": [
+      "./images/bone.jpg",
+      "./images/goat.jpg"
+    ],
+    "correct": 1,
+    "optionsAudio": [
+      "./sound/bone.mp3",
+      "./sound/goat.mp3"
+    ]
+  },
+    
+    {
+        "questionNo": "Q2.",
+        "question": "Fill in the blank: The letter \"D\" sounds in _____.",
+        "optionsImages": [
+          "./images/dog.jpg",
+          "./images/cat.jpg"
+        ],
+        "correct": 0,
+        "optionsAudio": [
+          "./sound/dog.mp3",
+          "./sound/cat.mp3"
+        ]
+      },
+      {
+          "questionNo": "Q3.",
+          "question": "Fill in the blank: The letter \"E\" sounds like _____.",
+          "optionsImages": [
+            "./images/elephant.jpg",
+            "./images/igloo.jpg"
+          ],
+          "correct": 0,
+          "optionsAudio": [
+            "./sound/elephant.mp3",
+            "./sound/igloo.mp3"
+          ]
+        },
+        {
+            "questionNo": "Q4.",
+            "question": "Which letter makes a sound like blowing out a candle?",
+            "optionsImages": [
+              "./images/b.jpg",
+              "./images/f.jpg",
+              "./images/t.jpg",
+              "./images/m.jpg"
+            ],
+            "correct": 1,
+            "optionsAudio": [
+              "./sound/b-sound.mp3",
+              "./sound/f-sound.mp3",
+              "./sound/t-sound.mp3",
+              "./sound/m-sound.mp3"
+            ]
+          }
+  ]
+  
